@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a first year computer engineering student at the University of Virginia. 
+I am currently a third year computer engineering student at the University of Virginia. 
